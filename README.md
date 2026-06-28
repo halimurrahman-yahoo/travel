@@ -1,4 +1,5 @@
 # Ziarah Wali Jawa Tengah 2026
+[peta ziarah](https://www.google.com/maps/d/u/0/viewer?mid=1LGTWd7wWTTE412evjQ-YRSlC6XaQXuY&ll=-6.890519559738957%2C109.85773437499999&z=7)
 
 ## Jumat 3 Juli 2026: Trip start by bus
 
