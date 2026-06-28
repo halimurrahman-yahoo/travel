@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Ziarah Wali Jawa Tengah</name>
+<Placemark><name>Stasiun Bandung</name><Point><coordinates>107.603,-6.914,0</coordinates></Point></Placemark>
+<Placemark><name>Stasiun Semarang Tawang</name><Point><coordinates>110.428,-6.966,0</coordinates></Point></Placemark>
+<Placemark><name>Masjid Agung Demak</name><Point><coordinates>110.639,-6.891,0</coordinates></Point></Placemark>
+<Placemark><name>Makam Sunan Kalijaga (Kadilangu)</name><Point><coordinates>110.644,-6.904,0</coordinates></Point></Placemark>
+<Placemark><name>Penginapan Demak (ganti dengan hotel Anda)</name><Point><coordinates>110.639,-6.891,0</coordinates></Point></Placemark>
+<Placemark><name>Menara Kudus</name><Point><coordinates>110.842,-6.805,0</coordinates></Point></Placemark>
+<Placemark><name>Makam Sunan Kudus</name><Point><coordinates>110.842,-6.805,0</coordinates></Point></Placemark>
+<Placemark><name>Terminal Wisata Colo</name><Point><coordinates>110.882,-6.638,0</coordinates></Point></Placemark>
+<Placemark><name>Makam Sunan Muria</name><Point><coordinates>110.882,-6.635,0</coordinates></Point></Placemark>
+</Document></kml>
