@@ -19,7 +19,7 @@
 
 ### 05.30–07.00
 
-### * Ziarah ke Makam Sunan Kalijaga.
+* Ziarah ke Makam Sunan Kalijaga.
 
 #### 07.00–08.00
 
