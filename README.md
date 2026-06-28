@@ -1,6 +1,6 @@
 # Ziarah Wali Jawa Tengah 2026
 
-## Jumat 3 Juli 2026
+## Jumat 3 Juli 2026: Trip start by bus
 
 ### 18.00
 
@@ -8,18 +8,18 @@
 * Istirahat di bus.
 
 
-## Sabtu
+## Sabtu 4 Juli 2026: Ziarah Jawa Tengah
 
 ### 03.00–05.30
 
 * Tiba di Alun-alun Demak.
 * Jalan ke Masjid Agung Demak.
-* Salat Subuh.
+* #### Salat Subuh di masjid Agung Demak
 * Istirahat sejenak.
 
 ### 05.30–07.00
 
-* Ziarah ke Makam Sunan Kalijaga.
+* #### Ziarah ke Makam Sunan Kalijaga.
 
 #### 07.00–08.00
 
@@ -40,7 +40,7 @@
 
 #### 10.00–12.00
 
-* Naik ojek ke Makam Sunan Muria.
+* #### Naik ojek ke Makam Sunan Muria.
 * Ziarah dan menikmati suasana pegunungan Muria.
 
 #### 12.00–13.00
@@ -50,7 +50,7 @@
 
 #### 13.30–15.00
 
-* Ziarah ke Menara Kudus dan Makam Sunan Kudus.
+* #### Ziarah ke Menara Kudus dan Makam Sunan Kudus.
 
 #### 15.00–17.00
 
